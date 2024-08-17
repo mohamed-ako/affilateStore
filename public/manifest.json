@@ -1,0 +1,25 @@
+{
+  "short_name": "shein moroocco",
+  "name": "shein moroocco",
+  "icons": [
+    {
+      "src": "https://i.pinimg.com/736x/10/28/3c/10283c6bd04f87ac8eaf529bde9ab2a6.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://i.pinimg.com/736x/10/28/3c/10283c6bd04f87ac8eaf529bde9ab2a6.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://i.pinimg.com/736x/10/28/3c/10283c6bd04f87ac8eaf529bde9ab2a6.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
