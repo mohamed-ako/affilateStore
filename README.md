@@ -1,7 +1,7 @@
 # 🛒 Full Stack E-commerce Store V2
 
 
-<iframe width="914" height="514" src="https://www.youtube.com/embed/vyHZUXVMpMM" title="React App shein" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<source width="914" height="514" src="https://www.youtube.com/embed/vyHZUXVMpMM" title="React App shein" />
 
 ## Overview
 This project is a full-stack web application for an online store, specifically designed for affiliate marketing. Built using the MERN stack (MongoDB, Express.js, React.js, and Node.js), it enables seamless extraction of all necessary data directly from the store pages you collaborate with, streamlining your workflow and enhancing your marketing efforts. The application is designed with performance and scalability in mind, utilizing Redux Toolkit to enhance speed and efficiency. While the core functionalities are in place, the project is still under active development and requires further enhancements.
