@@ -1,9 +1,5 @@
 # 🛒 Full Stack E-commerce Store V2
 
-<center>
-[![React App Shein](https://img.youtube.com/vi/vyHZUXVMpMM/0.jpg)](https://www.youtube.com/watch?v=vyHZUXVMpMM)
-</center>
-
 ## Overview
 This project is a full-stack web application for an online store, specifically designed for affiliate marketing. Built using the MERN stack (MongoDB, Express.js, React.js, and Node.js), it enables seamless extraction of all necessary data directly from the store pages you collaborate with, streamlining your workflow and enhancing your marketing efforts. The application is designed with performance and scalability in mind, utilizing Redux Toolkit to enhance speed and efficiency. While the core functionalities are in place, the project is still under active development and requires further enhancements.
 
@@ -24,6 +20,10 @@ This project is a full-stack web application for an online store, specifically d
 ### Backend:
 - **Node.js & Express.js**: For building the RESTful API.
 - **MongoDB**: For storing product, user, and order data.
+  
+
+[![React App Shein](https://img.youtube.com/vi/vyHZUXVMpMM/0.jpg)](https://www.youtube.com/watch?v=vyHZUXVMpMM)
+
 
 # Installation
 
@@ -36,24 +36,24 @@ To run this preliminary version locally, follow these steps:
 ## Clone the repository:
 
 
-### git clone https://github.com/mohamed-ako/SheinMoroocco.git
+### git clone https://github.com/mohamed-ako/affilateStore.git
 
 ## Navigate to the project directory:
 
 
-### `cd SheinMoroocco`
+### `cd affilateStore`
 ## Install dependencies:
 
 ## For the backend:
 
 
-### `cd SheinMoroccoo`
+### `cd affilateStore`
 ### `cd express`
 ### `npm install`
 ## For the frontend:
 
 
-## `cd SheinMoroccoo`
+## `cd affilateStore`
 ## `npm install`
 Set up environment variables:
 
@@ -67,13 +67,13 @@ Set up environment variables:
 ## Start the backend server:
 
 
-### `cd SheinMoroccoo`
+### `cd affilateStore`
 ### `cd express`
 ### `npm run server`
 ## Start the frontend development server:
 
 
-### `cd SheinMoroccoo`
+### `cd affilateStore`
 ### `npm start`
 
 # Open the application:
