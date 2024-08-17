@@ -1,24 +1,28 @@
-# 🛒 Full Stack E-commerce Store V1
+# 🛒 Full Stack E-commerce Store V2
+
+
+<iframe width="914" height="514" src="https://www.youtube.com/embed/vyHZUXVMpMM" title="React App shein" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Overview
-This project is a preliminary version of a full-stack web application for an online store, developed using the MERN stack: MongoDB, Express.js, React.js, and Node.js. The application is designed with performance and scalability in mind, utilizing Redux Toolkit to enhance speed and efficiency. While the core functionalities are in place, the project is still under active development and requires further enhancements.
+This project is a full-stack web application for an online store, specifically designed for affiliate marketing. Built using the MERN stack (MongoDB, Express.js, React.js, and Node.js), it enables seamless extraction of all necessary data directly from the store pages you collaborate with, streamlining your workflow and enhancing your marketing efforts. The application is designed with performance and scalability in mind, utilizing Redux Toolkit to enhance speed and efficiency. While the core functionalities are in place, the project is still under active development and requires further enhancements.
 
 ## Features
-Product Management: Admin interface for adding, updating, and deleting products (still needs some refinement).
-Shopping Cart: Users can browse products, add items to their cart, and proceed to checkout.
-Order Management: Basic order management system in place; more features to be added.
-State Management: Implemented with Redux Toolkit for efficient state management and improved performance.
-Responsive Design: Basic responsive layout, with ongoing improvements for a more consistent user experience across all devices.
-##Technologies Used
-##Frontend:
+- **Product Management**: Admin interface for adding, updating, and deleting products (still needs some refinement).
+- **Shopping Cart**: Users can browse products, add items to their cart, and proceed to checkout.
+- **Order Management**: Basic order management system in place; more features to be added.
+- **State Management**: Implemented with Redux Toolkit for efficient state management and improved performance.
+- **Responsive Design**: Basic responsive layout, with ongoing improvements for a more consistent user experience across all devices.
 
-React.js: For building the dynamic user interface.
-Redux Toolkit: For efficient state management.
-CSS/Bootstrap: Basic styling and responsive design (under development).
-## Backend:
+## Technologies Used
 
-Node.js & Express.js: For building the RESTful API.
-MongoDB: For storing product, user, and order data.
-JWT & Bcrypt: For user authentication and security.
+### Frontend:
+- **React.js**: For building the dynamic user interface.
+- **Redux Toolkit**: For efficient state management.
+- **CSS/Bootstrap**: Basic styling and responsive design (under development).
+
+### Backend:
+- **Node.js & Express.js**: For building the RESTful API.
+- **MongoDB**: For storing product, user, and order data.
 
 # Installation
 
